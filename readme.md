@@ -9,17 +9,18 @@ PrecarityScan helps researchers, policymakers, and workers analyze employment in
 Built with **Python**, **Streamlit**, and **Pandas**, the application provides an intuitive dashboard with role-based access and insightful analytics.
 
 ---
+Live application link: https://precarityscan-npstempbqkdllrhpixron6.streamlit.app/
 
 ## Features
 
-- 🔐 Secure role-based authentication
-- 👷 Worker registration and profile management
-- 📊 Automatic Precarity Score calculation
-- 📈 Interactive dashboards and visualizations
-- 🧹 Data cleaning and preprocessing pipeline
-- 📂 CSV-based dataset management
-- 📉 Employment risk analysis
-- 🏛️ Separate views for Researchers, Policymakers, and Workers
+-  Secure role-based authentication
+-  Worker registration and profile management
+-  Automatic Precarity Score calculation
+-  Interactive dashboards and visualizations
+-  Data cleaning and preprocessing pipeline
+-  CSV-based dataset management
+-  Employment risk analysis
+-  Separate views for Researchers, Policymakers, and Workers
 
 ---
 
@@ -38,40 +39,7 @@ Built with **Python**, **Streamlit**, and **Pandas**, the application provides a
 
 ---
 
-## Installation
 
-### Clone the repository
-
-```bash
-git clone https://github.com/Krishnika257/precarityscan.git
-cd precarityscan
-```
-
-### Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run the application
-
-```bash
-python run.py
-```
-
-or
-
-```bash
-streamlit run app.py
-```
-
-The application will open at:
-
-```
-http://localhost:8501
-```
-
----
 
 ## Demo Login Credentials
 
